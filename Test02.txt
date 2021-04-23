@@ -1,2 +1,3 @@
 Grass is green
-Rose is red
+Rose is a flower.
+Grapes are sweet.
